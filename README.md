@@ -33,12 +33,6 @@ e servir como base para projetos mais complexos no futuro.
 
 ---
 
-## 📁 Estrutura básica
-📂 game-launcher-learn-1/
-├── meu-launcher.html
-├── estilo.css
-└── logica.js
-
 
 ## 📌 Observações
 
